@@ -1,0 +1,5539 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<PALMOS_RESOURCE_FILE>
+
+	<APP_ICON_NAME_RESOURCE RESOURCE_ID="1000" COMMENT="Name">
+		<TEXT> "Chimester" </TEXT>
+	</APP_ICON_NAME_RESOURCE>
+
+	<APP_VERSION_RESOURCE RESOURCE_ID="1000">
+		<TEXT> "1.8" </TEXT>
+	</APP_VERSION_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="1000" COMMENT="HR">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 156 </WIDTH>
+				<HEIGHT> 2 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> FALSE </HAS_TRANSPARENCY>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1000_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 312 </WIDTH>
+				<HEIGHT> 4 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> FALSE </HAS_TRANSPARENCY>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1000_X2_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="1100" COMMENT="Dot">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 5 </WIDTH>
+				<HEIGHT> 5 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> FALSE </HAS_TRANSPARENCY>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1100_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 10 </WIDTH>
+				<HEIGHT> 10 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> FALSE </HAS_TRANSPARENCY>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1100_X2_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="1200" COMMENT="Flag">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 14 </WIDTH>
+				<HEIGHT> 9 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> FALSE </HAS_TRANSPARENCY>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1200_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 28 </WIDTH>
+				<HEIGHT> 18 </HEIGHT>
+				<BIT_DEPTH> 16 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> FALSE </HAS_TRANSPARENCY>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1200_X2_16.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="1300" COMMENT="Icon">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 22 </WIDTH>
+				<HEIGHT> 22 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> FALSE </HAS_TRANSPARENCY>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1300_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 44 </WIDTH>
+				<HEIGHT> 44 </HEIGHT>
+				<BIT_DEPTH> 16 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> FALSE </HAS_TRANSPARENCY>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1300_X2_16.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="1400" COMMENT="Test Btn">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 12 </WIDTH>
+				<HEIGHT> 12 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1400_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 24 </WIDTH>
+				<HEIGHT> 24 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1400_X2_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="1500" COMMENT="Tab Background">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 156 </WIDTH>
+				<HEIGHT> 18 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1500_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 312 </WIDTH>
+				<HEIGHT> 36 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1500_X2_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="1600" COMMENT="Tab Indicator">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 50 </WIDTH>
+				<HEIGHT> 18 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1600_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 100 </WIDTH>
+				<HEIGHT> 36 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1600_X2_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="1700" COMMENT="VR L">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 2 </WIDTH>
+				<HEIGHT> 110 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1700_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 4 </WIDTH>
+				<HEIGHT> 220 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1700_X2_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="1800" COMMENT="VR R">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 2 </WIDTH>
+				<HEIGHT> 110 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1800_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 4 </WIDTH>
+				<HEIGHT> 220 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1800_X2_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="1900" COMMENT="Signal Gadget">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 22 </WIDTH>
+				<HEIGHT> 11 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1900_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 44 </WIDTH>
+				<HEIGHT> 22 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_1900_X2_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="2000" COMMENT="Roaming">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 11 </WIDTH>
+				<HEIGHT> 11 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_2000_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 22 </WIDTH>
+				<HEIGHT> 22 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0xD2 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_2000_X2_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="2100" COMMENT="DoW">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 1 </WIDTH>
+				<HEIGHT> 48 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_2100_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<WIDTH> 1 </WIDTH>
+				<HEIGHT> 48 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_2100_X1_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="2200" COMMENT="Lock Icon">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 11 </WIDTH>
+				<HEIGHT> 11 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_2200_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 22 </WIDTH>
+				<HEIGHT> 22 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0xD2 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_2200_X2_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="2300" COMMENT="HR Clock">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 154 </WIDTH>
+				<HEIGHT> 2 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_2300_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 308 </WIDTH>
+				<HEIGHT> 4 </HEIGHT>
+				<BIT_DEPTH> 8 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_2300_X2_8.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<BITMAP_RESOURCE RESOURCE_ID="2400" COMMENT="Bar Legend">
+		<BITMAPS>
+			<BITMAP>
+				<WIDTH> 28 </WIDTH>
+				<HEIGHT> 8 </HEIGHT>
+				<BIT_DEPTH> 1 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<INDEX> 0x00 </INDEX>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_2400_X1_1.bmp" </BITMAP_FILE>
+			</BITMAP>
+			<BITMAP>
+				<BITMAP_DENSITY> 144 </BITMAP_DENSITY>
+				<WIDTH> 56 </WIDTH>
+				<HEIGHT> 16 </HEIGHT>
+				<BIT_DEPTH> 16 </BIT_DEPTH>
+				<BITMAP_COMPRESSION> BEST </BITMAP_COMPRESSION>
+				<HAS_TRANSPARENCY> TRUE </HAS_TRANSPARENCY>
+				<TRANSPARENT_COLOR>
+					<RED> 0xFF </RED>
+					<GREEN> 0xFF </GREEN>
+					<BLUE> 0xFF </BLUE>
+				</TRANSPARENT_COLOR>
+				<HAS_COLOR_TABLE> FALSE </HAS_COLOR_TABLE>
+				<BITMAP_FILE> "Bitmap_2400_X2_16.bmp" </BITMAP_FILE>
+			</BITMAP>
+		</BITMAPS>
+	</BITMAP_RESOURCE>
+
+	<FONT_EXTENDED_RESOURCE RESOURCE_ID="5678">
+		<FONT_TYPE> 0x9200 </FONT_TYPE>
+		<FONT_ASCENT> 44 </FONT_ASCENT>
+		<FONT_DESCENT> 12 </FONT_DESCENT>
+		<FONT_EXTENDED_ITEMS>
+			<FONT_EXTENDED_ITEM>
+				<FONT_DENSITY> 72 </FONT_DENSITY>
+				<FONT_GLYPHS>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0020 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+							"......."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x002C </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"....#..."
+							"....###."
+							"....###."
+							"...###.."
+							"...###.."
+							"...##..."
+							"..###..."
+							"..###..."
+							"..##...."
+							"..##...."
+							".##....."
+							".##....."
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x002D </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..########."
+							"..########."
+							"..########."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+							"..........."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x002E </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"...###.."
+							"..#####."
+							"..#####."
+							"..#####."
+							"...###.."
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0030 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							"......######......"
+							".....########....."
+							"....##########...."
+							"...###########...."
+							"...####...#####..."
+							"...####....####..."
+							"..####......###..."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"...###......###..."
+							"...####....####..."
+							"...####....####..."
+							"...############..."
+							"....##########...."
+							".....########....."
+							"......######......"
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0031 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							"....#######......."
+							"....#######......."
+							"....#######......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".......####......."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0032 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							"......#######....."
+							"....##########...."
+							"...############..."
+							"...#############.."
+							"..#####....#####.."
+							"..#####.....####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"...........####..."
+							"...........####..."
+							"...........####..."
+							"..........####...."
+							"..........####...."
+							".........####....."
+							".........####....."
+							"........####......"
+							"........####......"
+							".......####......."
+							"......#####......."
+							"......####........"
+							".....#####........"
+							".....####........."
+							"....####.........."
+							"....####.........."
+							"...############..."
+							"..#############..."
+							"..#############..."
+							".##############..."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0033 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							"......######......"
+							".....#########...."
+							"....###########..."
+							"....###########..."
+							"...#####...#####.."
+							"...####.....####.."
+							"...####.....####.."
+							"...####.....####.."
+							"............####.."
+							"............####.."
+							"............####.."
+							"...........#####.."
+							"..........######.."
+							".......########..."
+							".......#######...."
+							".......#######...."
+							".......########..."
+							"..........#####..."
+							"...........#####.."
+							"............####.."
+							"............####.."
+							"............####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..#####....#####.."
+							"...############..."
+							"...############..."
+							"....##########...."
+							".....#######......"
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0034 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							"..........####...."
+							"..........####...."
+							".........#####...."
+							".........#####...."
+							"........######...."
+							"........######...."
+							".......#######...."
+							".......#######...."
+							"......########...."
+							"......###.####...."
+							".....####.####...."
+							".....###..####...."
+							"....####..####...."
+							"....###...####...."
+							"....###...####...."
+							"...###....####...."
+							"...###....####...."
+							"..###.....####...."
+							"..##############.."
+							"..##############.."
+							"..##############.."
+							"..##############.."
+							"..........####...."
+							"..........####...."
+							"..........####...."
+							"..........####...."
+							"..........####...."
+							"..........####...."
+							"..........####...."
+							"..........####...."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0035 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".....##########..."
+							".....##########..."
+							".....##########..."
+							".....##########..."
+							"....####.........."
+							"....####.........."
+							"....####.........."
+							"....####.........."
+							"....####.........."
+							"....####.........."
+							"....######........"
+							"...#########......"
+							"...##########....."
+							"...###########...."
+							".........#####...."
+							"..........#####..."
+							"..........#####..."
+							"...........####..."
+							"...........####..."
+							"...........####..."
+							"...........####..."
+							"...........####..."
+							"...........####..."
+							"..........####...."
+							".........#####...."
+							"..#.....#####....."
+							"..###########....."
+							".###########......"
+							".##########......."
+							"...######........."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0036 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".........#####...."
+							".........####....."
+							"........####......"
+							".......#####......"
+							".......####......."
+							"......#####......."
+							"......####........"
+							".....####........."
+							".....####........."
+							"....####.........."
+							"....####.........."
+							"...##########....."
+							"...###########...."
+							"...############..."
+							"..#############..."
+							"..#####....#####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..#####.....####.."
+							"...####....####..."
+							"...############..."
+							"...###########...."
+							"....##########...."
+							"......######......"
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0037 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							"....#############."
+							"....#############."
+							"....############.."
+							"....############.."
+							"............####.."
+							"...........####..."
+							"...........####..."
+							"...........####..."
+							"..........####...."
+							"..........####...."
+							"..........####...."
+							".........#####...."
+							".........####....."
+							".........####....."
+							".........####....."
+							"........####......"
+							"........####......"
+							"........####......"
+							".......#####......"
+							".......####......."
+							".......####......."
+							".......####......."
+							"......####........"
+							"......####........"
+							"......####........"
+							".....####........."
+							".....####........."
+							".....####........."
+							"....#####........."
+							"....####.........."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0038 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							"......######......"
+							".....########....."
+							"....##########...."
+							"...############..."
+							"...#####..#####..."
+							"...####....####..."
+							"...####....####..."
+							"...####....####..."
+							"...####....####..."
+							"...####....####..."
+							"...####....####..."
+							"....####..####...."
+							"....##########...."
+							"......######......"
+							".....########....."
+							"....##########...."
+							"...####....####..."
+							"...###.....####..."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..#####.....####.."
+							"...####....#####.."
+							"...############..."
+							"...############..."
+							"....##########...."
+							"......######......"
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0039 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							"......######......"
+							"....##########...."
+							"...############..."
+							"...############..."
+							"...####....####..."
+							"..####.....#####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..#####.....####.."
+							"..#####....#####.."
+							"...#############.."
+							"...############..."
+							"....###########..."
+							"......#########..."
+							"...........####..."
+							"..........####...."
+							"..........####...."
+							".........####....."
+							".........####....."
+							"........####......"
+							"........####......"
+							".......####......."
+							"......#####......."
+							"......####........"
+							".....#####........"
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x003A </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"..###..."
+							".#####.."
+							".#####.."
+							".#####.."
+							"..###..."
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"..###..."
+							".#####.."
+							".#####.."
+							".#####.."
+							"..###..."
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+							"........"
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0061 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".....#####..####.."
+							"....#######.####.."
+							"...#############.."
+							"...####....#####.."
+							"...####....#####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"..####......####.."
+							"...####....#####.."
+							"...####....#####.."
+							"...#############.."
+							"....#######.####.."
+							".....#####..####.."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x006D </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							"...####..#####....#####..."
+							"...####.#######..#######.."
+							"...######################."
+							"...#####...######...#####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							"...####.....####.....####."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+							".........................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0070 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							".................."
+							"...####..####....."
+							"...####.######...."
+							"...############..."
+							"...#####...####..."
+							"...#####...#####.."
+							"...####.....####.."
+							"...####.....####.."
+							"...####.....####.."
+							"...####.....####.."
+							"...####.....####.."
+							"...####.....####.."
+							"...####.....####.."
+							"...####.....####.."
+							"...####.....####.."
+							"...####.....####.."
+							"...####.....####.."
+							"...#####...#####.."
+							"...#####...####..."
+							"...############..."
+							"...####.######...."
+							"...####..####....."
+							"...####..........."
+							"...####..........."
+							"...####..........."
+							"...####..........."
+							"...####..........."
+							"...####..........."
+							"...####..........."
+							"...####..........."
+							"...####..........."
+							".................."
+							".................."
+							".................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+				</FONT_GLYPHS>
+				<FONT_MISSING_GLYPH>
+					<FONT_GLYPH_IMAGE>
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+						".############."
+						".############."
+						".############."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".###......###."
+						".############."
+						".############."
+						".############."
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+						".............."
+					</FONT_GLYPH_IMAGE>
+				</FONT_MISSING_GLYPH>
+			</FONT_EXTENDED_ITEM>
+			<FONT_EXTENDED_ITEM>
+				<FONT_DENSITY> 144 </FONT_DENSITY>
+				<FONT_GLYPHS>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0020 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+							".............."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x002C </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"........##......"
+							"........#####..."
+							"........#######."
+							"........######.."
+							".......#######.."
+							".......#######.."
+							".......######..."
+							"......#######..."
+							"......######...."
+							"......######...."
+							".....######....."
+							".....######....."
+							".....#####......"
+							".....#####......"
+							"....######......"
+							"....#####......."
+							"....#####......."
+							"...#####........"
+							"...#####........"
+							"...####........."
+							"..#####........."
+							"..####.........."
+							"....##.........."
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x002D </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"....###############..."
+							"....###############..."
+							"....###############..."
+							"....###############..."
+							"....###############..."
+							"....###############..."
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+							"......................"
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x002E </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"......####......"
+							"....########...."
+							"....########...."
+							"...##########..."
+							"...##########..."
+							"...##########..."
+							"...##########..."
+							"....########...."
+							".....#######...."
+							"......####......"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0030 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...............#######.............."
+							".............###########............"
+							"...........###############.........."
+							"..........#################........."
+							".........##################........."
+							".........###################........"
+							"........#####################......."
+							"........########....#########......."
+							".......########.......########......"
+							".......########.......########......"
+							".......#######.........#######......"
+							"......########.........#######......"
+							"......########.........########....."
+							"......########..........#######....."
+							"......#######...........#######....."
+							"......#######...........#######....."
+							"......#######...........#######....."
+							".....########...........#######....."
+							".....########...........#######....."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							"......#######...........########...."
+							"......#######...........#######....."
+							"......#######...........#######....."
+							"......#######...........#######....."
+							"......########..........#######....."
+							"......########.........########....."
+							"......########.........########....."
+							".......#######.........#######......"
+							".......########........#######......"
+							".......########.......########......"
+							"........########.....########......."
+							"........#####################......."
+							".........###################........"
+							".........###################........"
+							"..........#################........."
+							"...........###############.........."
+							".............###########............"
+							"...............#######.............."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0031 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							".........#############.............."
+							".........#############.............."
+							".........#############.............."
+							".........#############.............."
+							".........#############.............."
+							".........#############.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0032 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"..............#########............."
+							"...........##############..........."
+							"..........#################........."
+							".........###################........"
+							"........#####################......."
+							".......######################......."
+							".......#######################......"
+							"......##########....##########......"
+							"......#########......#########......"
+							"......########........#########....."
+							"......########.........########....."
+							".....#########.........########....."
+							".....#########.........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########.........########......"
+							"......................########......"
+							"......................########......"
+							"......................########......"
+							".....................#########......"
+							".....................########......."
+							"....................#########......."
+							"....................#########......."
+							"....................########........"
+							"...................#########........"
+							"...................########........."
+							"..................#########........."
+							"..................#########........."
+							".................#########.........."
+							".................#########.........."
+							".................########..........."
+							"................#########..........."
+							"................########............"
+							"...............#########............"
+							"...............#########............"
+							"..............#########............."
+							"..............#########............."
+							".............#########.............."
+							".............#########.............."
+							"............#########..............."
+							"............#########..............."
+							"...........#########................"
+							"...........#########................"
+							"..........#########................."
+							"..........#########................."
+							".........#########.................."
+							".........#########.................."
+							".........########..................."
+							"........#########..................."
+							"........########...................."
+							".......######################......."
+							".......######################......."
+							"......#######################......."
+							"......#######################......."
+							".....########################......."
+							".....########################......."
+							"....#########################......."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0033 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"..............#########............."
+							"............#############..........."
+							"..........#################........."
+							".........###################........"
+							"........#####################......."
+							"........#####################......."
+							".......#######################......"
+							".......#########.....#########......"
+							".......########.......########......"
+							".......########.......########......"
+							"......#########.......#########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							".......................########....."
+							".......................########....."
+							".......................########....."
+							".......................########....."
+							".......................########....."
+							"......................#########....."
+							"......................#########....."
+							"......................########......"
+							".....................#########......"
+							"...................###########......"
+							"..............###############......."
+							"..............##############........"
+							"..............#############........."
+							"..............###########..........."
+							"..............#############........."
+							"..............##############........"
+							"..............###############......."
+							"..................###########......."
+							"....................##########......"
+							".....................#########......"
+							"......................########......"
+							"......................#########....."
+							"......................#########....."
+							".......................########....."
+							".......................########....."
+							".......................########....."
+							".......................########....."
+							".......................########....."
+							".......................########....."
+							".......................########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....#########........########......"
+							"......########........########......"
+							"......#########......#########......"
+							"......##########....##########......"
+							"......#######################......."
+							".......######################......."
+							".......#####################........"
+							"........###################........."
+							".........#################.........."
+							"..........###############..........."
+							".............#########.............."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0034 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							".....................########......."
+							".....................########......."
+							"....................#########......."
+							"....................#########......."
+							"...................##########......."
+							"...................##########......."
+							"...................##########......."
+							"..................###########......."
+							"..................###########......."
+							".................############......."
+							".................############......."
+							"................#############......."
+							"................#############......."
+							"...............##############......."
+							"...............##############......."
+							"...............##############......."
+							"..............###############......."
+							"..............######.########......."
+							".............#######.########......."
+							".............######..########......."
+							"............#######..########......."
+							"............######...########......."
+							"...........#######...########......."
+							"...........######....########......."
+							"..........#######....########......."
+							"..........#######....########......."
+							"..........######.....########......."
+							".........#######.....########......."
+							".........######......########......."
+							"........#######......########......."
+							"........######.......########......."
+							".......#######.......########......."
+							".......######........########......."
+							"......#######........########......."
+							"......#######........########......."
+							"......######.........########......."
+							".....#######.........########......."
+							".....###########################...."
+							".....###########################...."
+							".....###########################...."
+							".....###########################...."
+							".....###########################...."
+							".....###########################...."
+							".....###########################...."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0035 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"............####################...."
+							"............####################...."
+							"............####################...."
+							"............####################...."
+							"............####################...."
+							"............####################...."
+							"...........#####################...."
+							"...........########................."
+							"...........########................."
+							"...........########................."
+							"...........########................."
+							"...........########................."
+							"..........########.................."
+							"..........########.................."
+							"..........########.................."
+							"..........########.................."
+							"..........########.................."
+							"..........########.................."
+							".........#########.................."
+							".........########..................."
+							".........########..................."
+							".........###########................"
+							".........##############............."
+							".........################..........."
+							".........##################........."
+							"........####################........"
+							"........####################........"
+							"........###.....#############......."
+							"...................###########......"
+							"....................##########......"
+							".....................##########....."
+							"......................#########....."
+							".......................########....."
+							".......................########....."
+							".......................#########...."
+							"........................########...."
+							"........................########...."
+							"........................########...."
+							"........................########...."
+							"........................########...."
+							"........................########...."
+							"........................########...."
+							"........................########...."
+							"........................########...."
+							"........................########...."
+							".......................########....."
+							".......................########....."
+							".......................########....."
+							"......................#########....."
+							"......................########......"
+							".....................#########......"
+							"....................#########......."
+							".......#...........##########......."
+							".......####......###########........"
+							"......#####################........."
+							"......####################.........."
+							"......####################.........."
+							".....###################............"
+							".....##################............."
+							"......###############..............."
+							"..........#########................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0036 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"..................#########........."
+							".................#########.........."
+							".................#########.........."
+							"................#########..........."
+							"................#########..........."
+							"...............#########............"
+							"...............#########............"
+							"..............#########............."
+							"..............#########............."
+							".............#########.............."
+							".............#########.............."
+							"............#########..............."
+							"............########................"
+							"...........#########................"
+							"...........########................."
+							"...........########................."
+							"..........#########................."
+							"..........########.................."
+							".........#########.................."
+							".........########..................."
+							"........#########..................."
+							"........########...................."
+							"........########.#######............"
+							".......###################.........."
+							".......#####################........"
+							".......######################......."
+							".......######################......."
+							"......########################......"
+							"......########################......"
+							"......##########.....##########....."
+							"......#########.......#########....."
+							"......########.........########....."
+							".....#########.........########....."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........########...."
+							".....########...........#######....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......#########.......#########....."
+							".......#########.....#########......"
+							".......#######################......"
+							"........#####################......."
+							"........#####################......."
+							".........###################........"
+							"..........#################........."
+							"...........##############..........."
+							"..............########.............."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0037 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"........##########################.."
+							"........##########################.."
+							"........#########################..."
+							"........#########################..."
+							"........#########################..."
+							"........########################...."
+							"........########################...."
+							"........................########...."
+							".......................#########...."
+							".......................########....."
+							".......................########....."
+							".......................########....."
+							"......................#########....."
+							"......................########......"
+							"......................########......"
+							".....................#########......"
+							".....................########......."
+							".....................########......."
+							".....................########......."
+							"....................#########......."
+							"....................########........"
+							"....................########........"
+							"...................#########........"
+							"...................########........."
+							"...................########........."
+							"...................########........."
+							"..................#########........."
+							"..................########.........."
+							"..................########.........."
+							".................#########.........."
+							".................########..........."
+							".................########..........."
+							".................########..........."
+							"................#########..........."
+							"................########............"
+							"................########............"
+							"................########............"
+							"...............#########............"
+							"...............########............."
+							"...............########............."
+							"..............#########............."
+							"..............########.............."
+							"..............########.............."
+							"..............########.............."
+							".............#########.............."
+							".............########..............."
+							".............########..............."
+							"............#########..............."
+							"............########................"
+							"............########................"
+							"............########................"
+							"...........#########................"
+							"...........########................."
+							"...........########................."
+							"...........########................."
+							"..........#########................."
+							"..........########.................."
+							"..........########.................."
+							".........#########.................."
+							".........########..................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0038 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							".............#########.............."
+							"...........##############..........."
+							"..........################.........."
+							".........##################........."
+							"........####################........"
+							"........####################........"
+							".......######################......."
+							".......#########....#########......."
+							".......########......########......."
+							"......#########......#########......"
+							"......########........########......"
+							"......########........########......"
+							"......########........########......"
+							"......########........########......"
+							"......########........########......"
+							"......########........########......"
+							"......########........########......"
+							"......########........########......"
+							"......########........########......"
+							"......########........########......"
+							"......########........########......"
+							".......#######.......########......."
+							".......########......########......."
+							".......########......########......."
+							"........########....########........"
+							".........##################........."
+							"..........################.........."
+							"...........##############..........."
+							"............############............"
+							"..........################.........."
+							".........##################........."
+							"........####################........"
+							".......#########....#########......."
+							".......########......########......."
+							"......########........########......"
+							"......########........########......"
+							"......#######.........########......"
+							"......#######..........#######......"
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....#########........#########....."
+							"......########........########......"
+							"......########........########......"
+							"......#########......#########......"
+							".......#########....##########......"
+							".......######################......."
+							"........#####################......."
+							"........####################........"
+							".........##################........."
+							"..........################.........."
+							"...........##############..........."
+							"..............########.............."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0039 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"..............########.............."
+							"............#############..........."
+							"..........################.........."
+							".........##################........."
+							"........####################........"
+							".......######################......."
+							".......######################......."
+							".......#########....#########......."
+							"......#########......#########......"
+							"......########........########......"
+							"......########........########......"
+							"......#######.........########......"
+							".....########..........#######......"
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....########..........########....."
+							".....#########.........########....."
+							"......########........#########....."
+							"......########........#########....."
+							"......#########.......########......"
+							"......##########....##########......"
+							".......#######################......"
+							".......#######################......"
+							"........######################......"
+							"........######################......"
+							".........####################......."
+							"...........##################......."
+							".............######..########......."
+							".....................#######........"
+							"....................########........"
+							"....................########........"
+							"...................########........."
+							"...................########........."
+							"..................########.........."
+							"..................########.........."
+							".................#########.........."
+							".................########..........."
+							"................#########..........."
+							"................########............"
+							"...............#########............"
+							"...............########............."
+							"..............#########............."
+							"..............########.............."
+							".............#########.............."
+							".............########..............."
+							"............#########..............."
+							"............########................"
+							"...........#########................"
+							"...........########................."
+							"..........#########................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x003A </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"......####......"
+							"....########...."
+							"....########...."
+							"...##########..."
+							"...##########..."
+							"...##########..."
+							"...##########..."
+							"....########...."
+							"....########...."
+							"......####......"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"......####......"
+							"....########...."
+							"....########...."
+							"...##########..."
+							"...##########..."
+							"...##########..."
+							"...##########..."
+							"....########...."
+							"....########...."
+							"......####......"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+							"................"
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0061 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							".............#####.................."
+							"...........#########...########....."
+							"..........###########..########....."
+							".........#############.########....."
+							"........##############.########....."
+							"........#######################....."
+							"........#######################....."
+							".......##########....##########....."
+							".......#########......#########....."
+							".......########.......#########....."
+							".......########.......#########....."
+							".......########.......#########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########........#########....."
+							".......########.......#########....."
+							".......########.......#########....."
+							".......########.......#########....."
+							".......#########.....##########....."
+							".......##########...###########....."
+							"........#######################....."
+							"........#######################....."
+							"........##############.########....."
+							".........#############.########....."
+							"..........###########..########....."
+							"...........#########...########....."
+							".............#####.................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x006D </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................#######..........#######........."
+							"......########...###########......###########......."
+							"......########..#############....#############......"
+							"......########.##############...###############....."
+							"......########################.################....."
+							"......#########################################....."
+							"......##########.....#############....##########...."
+							"......#########.......##########.......#########...."
+							"......#########.......##########.......#########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"......########.........########.........########...."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+							"...................................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+					<FONT_GLYPH>
+						<FONT_GLYPH_CODE> 0x0070 </FONT_GLYPH_CODE>
+						<FONT_GLYPH_IMAGE>
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................#####............"
+							"......########...#########.........."
+							"......########..###########........."
+							"......########.#############........"
+							"......########.##############......."
+							"......#######################......."
+							"......#######################......."
+							"......###########...##########......"
+							"......##########.....#########......"
+							"......#########.......########......"
+							"......#########.......########......"
+							"......#########.......########......"
+							"......########........#########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########.........########....."
+							"......########........#########....."
+							"......#########.......########......"
+							"......#########.......########......"
+							"......#########.......########......"
+							"......##########.....#########......"
+							"......##########....##########......"
+							"......#######################......."
+							"......#######################......."
+							"......########.##############......."
+							"......########.#############........"
+							"......########..###########........."
+							"......########...#########.........."
+							"......########.....#####............"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"......########......................"
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+							"...................................."
+						</FONT_GLYPH_IMAGE>
+					</FONT_GLYPH>
+				</FONT_GLYPHS>
+				<FONT_MISSING_GLYPH>
+					<FONT_GLYPH_IMAGE>
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"..########################.."
+						"..########################.."
+						"..########################.."
+						"..########################.."
+						"..########################.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..#####..............#####.."
+						"..########################.."
+						"..########################.."
+						"..########################.."
+						"..########################.."
+						"..########################.."
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+						"............................"
+					</FONT_GLYPH_IMAGE>
+				</FONT_MISSING_GLYPH>
+			</FONT_EXTENDED_ITEM>
+		</FONT_EXTENDED_ITEMS>
+	</FONT_EXTENDED_RESOURCE>
+
+	<FORM_RESOURCE RESOURCE_ID="1000" COMMENT="Main">
+		<FORM_ID> 1000 </FORM_ID>
+		<BOUNDS>
+			<LEFT> 0 </LEFT>
+			<TOP> 0 </TOP>
+			<WIDTH> 160 </WIDTH>
+			<HEIGHT> 160 </HEIGHT>
+		</BOUNDS>
+		<USABLE> TRUE </USABLE>
+		<MODAL> FALSE </MODAL>
+		<SAVE_BEHIND> TRUE </SAVE_BEHIND>
+		<HELP_ID> 0 </HELP_ID>
+		<MENU_ID> 1000 </MENU_ID>
+		<DEFAULT_BUTTON> 1010 </DEFAULT_BUTTON>
+		<TITLE_ICON> FALSE </TITLE_ICON>
+		<TITLE_BAR_FOCUSABLE> FALSE </TITLE_BAR_FOCUSABLE>
+		<FORM_OBJECTS>
+			<FORM_TITLE>
+				<TEXT> "Preferences" </TEXT>
+			</FORM_TITLE>
+			<FORM_BUTTON>
+				<ID> 1010 </ID>
+				<BOUNDS>
+					<LEFT> 3 </LEFT>
+					<TOP> 145 </TOP>
+					<WIDTH> 36 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Done" </TEXT>
+				<LEFT_ANCHOR> FALSE </LEFT_ANCHOR>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<BUTTON_FRAME> STANDARD_BUTTON_FRAME </BUTTON_FRAME>
+			</FORM_BUTTON>
+			<FORM_BITMAP>
+				<USABLE> TRUE </USABLE>
+				<LOCATION>
+					<X> 2 </X>
+					<Y> 140 </Y>
+				</LOCATION>
+				<BITMAP_ID> 1000 </BITMAP_ID>
+			</FORM_BITMAP>
+			<FORM_CHECKBOX>
+				<ID> 1020 </ID>
+				<BOUNDS>
+					<LEFT> 71 </LEFT>
+					<TOP> 1 </TOP>
+					<WIDTH> 89 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Enable Chimester" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<GROUP_ID> 0 </GROUP_ID>
+				<SELECTED> FALSE </SELECTED>
+			</FORM_CHECKBOX>
+			<FORM_GRAFFITI_STATE>
+				<LOCATION>
+					<X> 149 </X>
+					<Y> 146 </Y>
+				</LOCATION>
+			</FORM_GRAFFITI_STATE>
+			<FORM_BITMAP>
+				<USABLE> TRUE </USABLE>
+				<LOCATION>
+					<X> 2 </X>
+					<Y> 17 </Y>
+				</LOCATION>
+				<BITMAP_ID> 1500 </BITMAP_ID>
+			</FORM_BITMAP>
+			<FORM_GADGET>
+				<ID> 1060 </ID>
+				<BOUNDS>
+					<LEFT> 2 </LEFT>
+					<TOP> 17 </TOP>
+					<WIDTH> 156 </WIDTH>
+					<HEIGHT> 18 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_BUTTON>
+				<ID> 1030 </ID>
+				<BOUNDS>
+					<LEFT> 4 </LEFT>
+					<TOP> 19 </TOP>
+					<WIDTH> 46 </WIDTH>
+					<HEIGHT> 14 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Chime" </TEXT>
+				<LEFT_ANCHOR> FALSE </LEFT_ANCHOR>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<BUTTON_FRAME> NO_BUTTON_FRAME </BUTTON_FRAME>
+			</FORM_BUTTON>
+			<FORM_BUTTON>
+				<ID> 1040 </ID>
+				<BOUNDS>
+					<LEFT> 57 </LEFT>
+					<TOP> 19 </TOP>
+					<WIDTH> 46 </WIDTH>
+					<HEIGHT> 14 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Popup" </TEXT>
+				<LEFT_ANCHOR> FALSE </LEFT_ANCHOR>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<BUTTON_FRAME> NO_BUTTON_FRAME </BUTTON_FRAME>
+			</FORM_BUTTON>
+			<FORM_BUTTON>
+				<ID> 1050 </ID>
+				<BOUNDS>
+					<LEFT> 110 </LEFT>
+					<TOP> 19 </TOP>
+					<WIDTH> 46 </WIDTH>
+					<HEIGHT> 14 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Keyguard" </TEXT>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<BUTTON_FRAME> NO_BUTTON_FRAME </BUTTON_FRAME>
+			</FORM_BUTTON>
+			<FORM_BITMAP>
+				<USABLE> TRUE </USABLE>
+				<LOCATION>
+					<X> 1 </X>
+					<Y> 32 </Y>
+				</LOCATION>
+				<BITMAP_ID> 1700 </BITMAP_ID>
+			</FORM_BITMAP>
+			<FORM_BITMAP>
+				<USABLE> TRUE </USABLE>
+				<LOCATION>
+					<X> 157 </X>
+					<Y> 32 </Y>
+				</LOCATION>
+				<BITMAP_ID> 1800 </BITMAP_ID>
+			</FORM_BITMAP>
+			<FORM_GRAPHIC_BUTTON>
+				<ID> 1070 </ID>
+				<BOUNDS>
+					<LEFT> 112 </LEFT>
+					<TOP> 145 </TOP>
+					<WIDTH> 12 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<ENABLED> FALSE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<BUTTON_FRAME> STANDARD_BUTTON_FRAME </BUTTON_FRAME>
+				<BITMAP_ID> 1400 </BITMAP_ID>
+				<SELECTED_BITMAP_ID> 1400 </SELECTED_BITMAP_ID>
+			</FORM_GRAPHIC_BUTTON>
+			<FORM_LIST>
+				<ID> 2030 </ID>
+				<BOUNDS>
+					<LEFT> 51 </LEFT>
+					<TOP> 37 </TOP>
+					<WIDTH> 102 </WIDTH>
+					<HEIGHT> 44 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> BOLD_FONT </FONT_ID>
+				<NUM_VIS_ITEMS> 4 </NUM_VIS_ITEMS>
+				<LIST_ITEMS>
+					<TEXT> "- DISABLED -" </TEXT>
+					<TEXT> "Every Quarter Hour" </TEXT>
+					<TEXT> "Every Half Hour" </TEXT>
+					<TEXT> "Every One Hour" </TEXT>
+				</LIST_ITEMS>
+			</FORM_LIST>
+			<FORM_LIST>
+				<ID> 2080 </ID>
+				<BOUNDS>
+					<LEFT> 81 </LEFT>
+					<TOP> 47 </TOP>
+					<WIDTH> 54 </WIDTH>
+					<HEIGHT> 66 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<NUM_VIS_ITEMS> 6 </NUM_VIS_ITEMS>
+				<LIST_ITEMS>
+					<TEXT> "- DISABLED -" </TEXT>
+					<TEXT> "2 Secs" </TEXT>
+					<TEXT> "3 Secs" </TEXT>
+					<TEXT> "5 Secs" </TEXT>
+					<TEXT> "8 Secs" </TEXT>
+					<TEXT> "10 Secs" </TEXT>
+				</LIST_ITEMS>
+			</FORM_LIST>
+			<FORM_LABEL>
+				<ID> 2060 </ID>
+				<LOCATION>
+					<X> 13 </X>
+					<Y> 70 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Display Clock:" </TEXT>
+			</FORM_LABEL>
+			<FORM_POPUP_TRIGGER>
+				<ID> 2070 </ID>
+				<BOUNDS>
+					<LEFT> 68 </LEFT>
+					<TOP> 70 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 2070 </CONTROL_ID>
+				<LIST_ID> 2080 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_LIST>
+				<ID> 2120 </ID>
+				<BOUNDS>
+					<LEFT> 54 </LEFT>
+					<TOP> 56 </TOP>
+					<WIDTH> 54 </WIDTH>
+					<HEIGHT> 99 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<NUM_VIS_ITEMS> 9 </NUM_VIS_ITEMS>
+				<LIST_ITEMS>
+					<TEXT> "- DISABLED -" </TEXT>
+					<TEXT> "Volume 1" </TEXT>
+					<TEXT> "Volume 2" </TEXT>
+					<TEXT> "Volume 3" </TEXT>
+					<TEXT> "Volume 4" </TEXT>
+					<TEXT> "Volume 5" </TEXT>
+					<TEXT> "Volume 6" </TEXT>
+					<TEXT> "Volume 7" </TEXT>
+					<TEXT> "- SYSTEM -" </TEXT>
+				</LIST_ITEMS>
+			</FORM_LIST>
+			<FORM_LABEL>
+				<ID> 2010 </ID>
+				<LOCATION>
+					<X> 7 </X>
+					<Y> 38 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> BOLD_FONT </FONT_ID>
+				<TEXT> "Chime:" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 2040 </ID>
+				<LOCATION>
+					<X> 13 </X>
+					<Y> 54 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Between:" </TEXT>
+			</FORM_LABEL>
+			<FORM_SELECTOR_TRIGGER>
+				<ID> 2050 </ID>
+				<BOUNDS>
+					<LEFT> 51 </LEFT>
+					<TOP> 53 </TOP>
+					<WIDTH> 41 </WIDTH>
+					<HEIGHT> 13 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> FALSE </LEFT_ANCHOR>
+				<TEXT> "88:88 am" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_SELECTOR_TRIGGER>
+			<FORM_POPUP_TRIGGER>
+				<ID> 2020 </ID>
+				<BOUNDS>
+					<LEFT> 39 </LEFT>
+					<TOP> 38 </TOP>
+					<WIDTH> 48 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> BOLD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 2020 </CONTROL_ID>
+				<LIST_ID> 2030 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_CHECKBOX>
+				<ID> 2090 </ID>
+				<BOUNDS>
+					<LEFT> 42 </LEFT>
+					<TOP> 84 </TOP>
+					<WIDTH> 106 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Kill w/ Keypress, Tap" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<GROUP_ID> 0 </GROUP_ID>
+				<SELECTED> FALSE </SELECTED>
+			</FORM_CHECKBOX>
+			<FORM_LABEL>
+				<ID> 2100 </ID>
+				<LOCATION>
+					<X> 14 </X>
+					<Y> 98 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Sound:" </TEXT>
+			</FORM_LABEL>
+			<FORM_POPUP_TRIGGER>
+				<ID> 2110 </ID>
+				<BOUNDS>
+					<LEFT> 41 </LEFT>
+					<TOP> 98 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 2110 </CONTROL_ID>
+				<LIST_ID> 2120 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_POPUP_TRIGGER>
+				<ID> 2200 </ID>
+				<BOUNDS>
+					<LEFT> 33 </LEFT>
+					<TOP> 127 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 2200 </CONTROL_ID>
+				<LIST_ID> 2210 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_LABEL>
+				<ID> 2190 </ID>
+				<LOCATION>
+					<X> 15 </X>
+					<Y> 127 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "LED:" </TEXT>
+			</FORM_LABEL>
+			<FORM_CHECKBOX>
+				<ID> 2220 </ID>
+				<BOUNDS>
+					<LEFT> 102 </LEFT>
+					<TOP> 127 </TOP>
+					<WIDTH> 50 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Vibrate" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<GROUP_ID> 0 </GROUP_ID>
+				<SELECTED> FALSE </SELECTED>
+			</FORM_CHECKBOX>
+			<FORM_LIST>
+				<ID> 2210 </ID>
+				<BOUNDS>
+					<LEFT> 46 </LEFT>
+					<TOP> 100 </TOP>
+					<WIDTH> 54 </WIDTH>
+					<HEIGHT> 55 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<NUM_VIS_ITEMS> 5 </NUM_VIS_ITEMS>
+				<LIST_ITEMS>
+					<TEXT> "- DISABLED -" </TEXT>
+					<TEXT> "Flash Green" </TEXT>
+					<TEXT> "Solid Green" </TEXT>
+					<TEXT> "Solid Red" </TEXT>
+					<TEXT> "Solid Orange" </TEXT>
+				</LIST_ITEMS>
+			</FORM_LIST>
+			<FORM_BUTTON>
+				<ID> 2130 </ID>
+				<BOUNDS>
+					<LEFT> 45 </LEFT>
+					<TOP> 112 </TOP>
+					<WIDTH> 84 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Configure Sounds..." </TEXT>
+				<LEFT_ANCHOR> FALSE </LEFT_ANCHOR>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<BUTTON_FRAME> STANDARD_BUTTON_FRAME </BUTTON_FRAME>
+			</FORM_BUTTON>
+			<FORM_SELECTOR_TRIGGER>
+				<ID> 2055 </ID>
+				<BOUNDS>
+					<LEFT> 113 </LEFT>
+					<TOP> 53 </TOP>
+					<WIDTH> 41 </WIDTH>
+					<HEIGHT> 13 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "88:88 pm" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_SELECTOR_TRIGGER>
+			<FORM_LABEL>
+				<ID> 2053 </ID>
+				<LOCATION>
+					<X> 95 </X>
+					<Y> 54 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "and" </TEXT>
+			</FORM_LABEL>
+			<FORM_CHECKBOX>
+				<ID> 3010 </ID>
+				<BOUNDS>
+					<LEFT> 6 </LEFT>
+					<TOP> 38 </TOP>
+					<WIDTH> 140 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Enable Popup Activation" </TEXT>
+				<FONT_ID> BOLD_FONT </FONT_ID>
+				<GROUP_ID> 0 </GROUP_ID>
+				<SELECTED> FALSE </SELECTED>
+			</FORM_CHECKBOX>
+			<FORM_LIST>
+				<ID> 3040 </ID>
+				<BOUNDS>
+					<LEFT> 86 </LEFT>
+					<TOP> 14 </TOP>
+					<WIDTH> 64 </WIDTH>
+					<HEIGHT> 143 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<NUM_VIS_ITEMS> 13 </NUM_VIS_ITEMS>
+				<LIST_ITEMS>
+					<TEXT> "- None -" </TEXT>
+					<TEXT> "5-Way Up" </TEXT>
+					<TEXT> "5-Way Down" </TEXT>
+					<TEXT> "5-Way Left" </TEXT>
+					<TEXT> "5-Way Right" </TEXT>
+					<TEXT> "5-Way Center" </TEXT>
+					<TEXT> "Launch" </TEXT>
+					<TEXT> "Menu" </TEXT>
+					<TEXT> "Calendar" </TEXT>
+					<TEXT> "Messaging" </TEXT>
+					<TEXT> "Side Key" </TEXT>
+					<TEXT> "Vol-Up" </TEXT>
+					<TEXT> "Vol-Down" </TEXT>
+				</LIST_ITEMS>
+			</FORM_LIST>
+			<FORM_LIST>
+				<ID> 3070 </ID>
+				<BOUNDS>
+					<LEFT> 86 </LEFT>
+					<TOP> 45 </TOP>
+					<WIDTH> 64 </WIDTH>
+					<HEIGHT> 55 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<NUM_VIS_ITEMS> 5 </NUM_VIS_ITEMS>
+				<LIST_ITEMS>
+					<TEXT> "- None -" </TEXT>
+					<TEXT> "Shift" </TEXT>
+					<TEXT> "Option" </TEXT>
+					<TEXT> "Double Tap" </TEXT>
+					<TEXT> "Keep-Pressed" </TEXT>
+				</LIST_ITEMS>
+			</FORM_LIST>
+			<FORM_LIST>
+				<ID> 3100 </ID>
+				<BOUNDS>
+					<LEFT> 86 </LEFT>
+					<TOP> 48 </TOP>
+					<WIDTH> 40 </WIDTH>
+					<HEIGHT> 88 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<NUM_VIS_ITEMS> 8 </NUM_VIS_ITEMS>
+				<LIST_ITEMS>
+					<TEXT> "2 Secs" </TEXT>
+					<TEXT> "3 Secs" </TEXT>
+					<TEXT> "5 Secs" </TEXT>
+					<TEXT> "8 Secs" </TEXT>
+					<TEXT> "10 Secs" </TEXT>
+					<TEXT> "15 Secs" </TEXT>
+					<TEXT> "20 Secs" </TEXT>
+					<TEXT> "- None -" </TEXT>
+				</LIST_ITEMS>
+			</FORM_LIST>
+			<FORM_POPUP_TRIGGER>
+				<ID> 3030 </ID>
+				<BOUNDS>
+					<LEFT> 72 </LEFT>
+					<TOP> 52 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 3030 </CONTROL_ID>
+				<LIST_ID> 3040 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_LABEL>
+				<ID> 3020 </ID>
+				<LOCATION>
+					<X> 23 </X>
+					<Y> 52 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Popup Key:" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 3050 </ID>
+				<LOCATION>
+					<X> 28 </X>
+					<Y> 66 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "+ Modifier:" </TEXT>
+			</FORM_LABEL>
+			<FORM_POPUP_TRIGGER>
+				<ID> 3060 </ID>
+				<BOUNDS>
+					<LEFT> 72 </LEFT>
+					<TOP> 66 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 3060 </CONTROL_ID>
+				<LIST_ID> 3070 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_LABEL>
+				<ID> 3080 </ID>
+				<LOCATION>
+					<X> 23 </X>
+					<Y> 80 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Timeout:" </TEXT>
+			</FORM_LABEL>
+			<FORM_POPUP_TRIGGER>
+				<ID> 3090 </ID>
+				<BOUNDS>
+					<LEFT> 72 </LEFT>
+					<TOP> 80 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 3090 </CONTROL_ID>
+				<LIST_ID> 3100 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_CHECKBOX>
+				<ID> 3110 </ID>
+				<BOUNDS>
+					<LEFT> 21 </LEFT>
+					<TOP> 96 </TOP>
+					<WIDTH> 111 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Allow Key Passthrough" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<GROUP_ID> 0 </GROUP_ID>
+				<SELECTED> FALSE </SELECTED>
+			</FORM_CHECKBOX>
+			<FORM_LABEL>
+				<ID> 3120 </ID>
+				<LOCATION>
+					<X> 9 </X>
+					<Y> 114 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "All key combinations may not work" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 3130 </ID>
+				<LOCATION>
+					<X> 9 </X>
+					<Y> 126 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "in all applications" </TEXT>
+			</FORM_LABEL>
+			<FORM_CHECKBOX>
+				<ID> 4010 </ID>
+				<BOUNDS>
+					<LEFT> 6 </LEFT>
+					<TOP> 38 </TOP>
+					<WIDTH> 103 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Enable KeyGuard" </TEXT>
+				<FONT_ID> BOLD_FONT </FONT_ID>
+				<GROUP_ID> 0 </GROUP_ID>
+				<SELECTED> FALSE </SELECTED>
+			</FORM_CHECKBOX>
+			<FORM_LIST>
+				<ID> 4050 </ID>
+				<BOUNDS>
+					<LEFT> 86 </LEFT>
+					<TOP> 14 </TOP>
+					<WIDTH> 64 </WIDTH>
+					<HEIGHT> 143 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<NUM_VIS_ITEMS> 13 </NUM_VIS_ITEMS>
+				<LIST_ITEMS>
+					<TEXT> "- None -" </TEXT>
+					<TEXT> "5-Way Up" </TEXT>
+					<TEXT> "5-Way Down" </TEXT>
+					<TEXT> "5-Way Left" </TEXT>
+					<TEXT> "5-Way Right" </TEXT>
+					<TEXT> "5-Way Center" </TEXT>
+					<TEXT> "Launch" </TEXT>
+					<TEXT> "Menu" </TEXT>
+					<TEXT> "Calendar" </TEXT>
+					<TEXT> "Messaging" </TEXT>
+					<TEXT> "Side Key" </TEXT>
+					<TEXT> "Vol-Up" </TEXT>
+					<TEXT> "Vol-Down" </TEXT>
+				</LIST_ITEMS>
+			</FORM_LIST>
+			<FORM_LIST>
+				<ID> 4110 </ID>
+				<BOUNDS>
+					<LEFT> 86 </LEFT>
+					<TOP> 62 </TOP>
+					<WIDTH> 40 </WIDTH>
+					<HEIGHT> 77 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<NUM_VIS_ITEMS> 7 </NUM_VIS_ITEMS>
+				<LIST_ITEMS>
+					<TEXT> "2 Secs" </TEXT>
+					<TEXT> "3 Secs" </TEXT>
+					<TEXT> "5 Secs" </TEXT>
+					<TEXT> "7 Secs" </TEXT>
+					<TEXT> "10 Secs" </TEXT>
+					<TEXT> "15 Secs" </TEXT>
+					<TEXT> "20 Secs" </TEXT>
+				</LIST_ITEMS>
+			</FORM_LIST>
+			<FORM_LABEL>
+				<ID> 4020 </ID>
+				<LOCATION>
+					<X> 23 </X>
+					<Y> 52 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "[Native KeyGuard Must Be ON]" </TEXT>
+			</FORM_LABEL>
+			<FORM_CHECKBOX>
+				<ID> 4120 </ID>
+				<BOUNDS>
+					<LEFT> 21 </LEFT>
+					<TOP> 108 </TOP>
+					<WIDTH> 119 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "No KG On Alerts Wakeup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<GROUP_ID> 0 </GROUP_ID>
+				<SELECTED> FALSE </SELECTED>
+			</FORM_CHECKBOX>
+			<FORM_LABEL>
+				<ID> 4130 </ID>
+				<LOCATION>
+					<X> 9 </X>
+					<Y> 126 </Y>
+				</LOCATION>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Unlock Key: None to Disp at Pwr-on" </TEXT>
+			</FORM_LABEL>
+			<FORM_LIST>
+				<ID> 4080 </ID>
+				<BOUNDS>
+					<LEFT> 86 </LEFT>
+					<TOP> 59 </TOP>
+					<WIDTH> 64 </WIDTH>
+					<HEIGHT> 55 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<NUM_VIS_ITEMS> 5 </NUM_VIS_ITEMS>
+				<LIST_ITEMS>
+					<TEXT> "- None -" </TEXT>
+					<TEXT> "Shift" </TEXT>
+					<TEXT> "Option" </TEXT>
+					<TEXT> "Double Tap" </TEXT>
+					<TEXT> "Keep-Pressed" </TEXT>
+				</LIST_ITEMS>
+			</FORM_LIST>
+			<FORM_POPUP_TRIGGER>
+				<ID> 4040 </ID>
+				<BOUNDS>
+					<LEFT> 72 </LEFT>
+					<TOP> 66 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 4040 </CONTROL_ID>
+				<LIST_ID> 4050 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_POPUP_TRIGGER>
+				<ID> 4070 </ID>
+				<BOUNDS>
+					<LEFT> 72 </LEFT>
+					<TOP> 80 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 4070 </CONTROL_ID>
+				<LIST_ID> 4080 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_POPUP_TRIGGER>
+				<ID> 4100 </ID>
+				<BOUNDS>
+					<LEFT> 72 </LEFT>
+					<TOP> 94 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 4100 </CONTROL_ID>
+				<LIST_ID> 4110 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_LABEL>
+				<ID> 4030 </ID>
+				<LOCATION>
+					<X> 23 </X>
+					<Y> 66 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Unlock Key:" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 4060 </ID>
+				<LOCATION>
+					<X> 28 </X>
+					<Y> 80 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "+ Modifier:" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 4090 </ID>
+				<LOCATION>
+					<X> 23 </X>
+					<Y> 94 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Timeout:" </TEXT>
+			</FORM_LABEL>
+		</FORM_OBJECTS>
+	</FORM_RESOURCE>
+
+	<FORM_RESOURCE RESOURCE_ID="5000" COMMENT="About">
+		<FORM_ID> 5000 </FORM_ID>
+		<BOUNDS>
+			<LEFT> 2 </LEFT>
+			<TOP> 2 </TOP>
+			<WIDTH> 156 </WIDTH>
+			<HEIGHT> 156 </HEIGHT>
+		</BOUNDS>
+		<USABLE> TRUE </USABLE>
+		<MODAL> TRUE </MODAL>
+		<SAVE_BEHIND> TRUE </SAVE_BEHIND>
+		<HELP_ID> 1000 </HELP_ID>
+		<MENU_ID> 0 </MENU_ID>
+		<DEFAULT_BUTTON> 5010 </DEFAULT_BUTTON>
+		<TITLE_ICON> FALSE </TITLE_ICON>
+		<TITLE_BAR_FOCUSABLE> FALSE </TITLE_BAR_FOCUSABLE>
+		<FORM_OBJECTS>
+			<FORM_TITLE>
+				<TEXT> "About Chimester" </TEXT>
+			</FORM_TITLE>
+			<FORM_LABEL>
+				<ID> 1000 </ID>
+				<LOCATION>
+					<X> 32 </X>
+					<Y> 31 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> LARGE_BOLD_FONT </FONT_ID>
+				<TEXT> "Chimester" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 5020 </ID>
+				<LOCATION>
+					<X> 87 </X>
+					<Y> 34 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "v5.2 [Freeware]" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 1002 </ID>
+				<LOCATION>
+					<X> 33 </X>
+					<Y> 68 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Copyright © 2006-08 MVK" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 1003 </ID>
+				<LOCATION>
+					<X> 33 </X>
+					<Y> 55 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Chime, Popup &amp;  Keyguard" </TEXT>
+			</FORM_LABEL>
+			<FORM_BITMAP>
+				<USABLE> TRUE </USABLE>
+				<LOCATION>
+					<X> 6 </X>
+					<Y> 26 </Y>
+				</LOCATION>
+				<BITMAP_ID> 1300 </BITMAP_ID>
+			</FORM_BITMAP>
+			<FORM_BUTTON>
+				<ID> 5010 </ID>
+				<BOUNDS>
+					<LEFT> 33 </LEFT>
+					<TOP> 136 </TOP>
+					<WIDTH> 36 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "OK" </TEXT>
+				<LEFT_ANCHOR> FALSE </LEFT_ANCHOR>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<BUTTON_FRAME> STANDARD_BUTTON_FRAME </BUTTON_FRAME>
+			</FORM_BUTTON>
+			<FORM_LABEL>
+				<ID> 6140 </ID>
+				<LOCATION>
+					<X> 33 </X>
+					<Y> 116 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "www.swCP3.com/TreoTown/" </TEXT>
+			</FORM_LABEL>
+			<FORM_BITMAP>
+				<USABLE> TRUE </USABLE>
+				<LOCATION>
+					<X> 71 </X>
+					<Y> 15 </Y>
+				</LOCATION>
+				<BITMAP_ID> 1200 </BITMAP_ID>
+			</FORM_BITMAP>
+			<FORM_LABEL>
+				<ID> 1001 </ID>
+				<LOCATION>
+					<X> 33 </X>
+					<Y> 81 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "All Rights Reserved" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 1004 </ID>
+				<LOCATION>
+					<X> 33 </X>
+					<Y> 94 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Do Not Redistribute" </TEXT>
+			</FORM_LABEL>
+		</FORM_OBJECTS>
+	</FORM_RESOURCE>
+
+	<FORM_RESOURCE RESOURCE_ID="6000" COMMENT="Clock">
+		<FORM_ID> 6000 </FORM_ID>
+		<BOUNDS>
+			<LEFT> 2 </LEFT>
+			<TOP> 2 </TOP>
+			<WIDTH> 156 </WIDTH>
+			<HEIGHT> 156 </HEIGHT>
+		</BOUNDS>
+		<USABLE> TRUE </USABLE>
+		<MODAL> TRUE </MODAL>
+		<SAVE_BEHIND> TRUE </SAVE_BEHIND>
+		<HELP_ID> 0 </HELP_ID>
+		<MENU_ID> 0 </MENU_ID>
+		<DEFAULT_BUTTON> 0 </DEFAULT_BUTTON>
+		<TITLE_ICON> FALSE </TITLE_ICON>
+		<TITLE_BAR_FOCUSABLE> FALSE </TITLE_BAR_FOCUSABLE>
+		<FORM_OBJECTS>
+			<FORM_GADGET>
+				<ID> 6070 </ID>
+				<BOUNDS>
+					<LEFT> 3 </LEFT>
+					<TOP> 137 </TOP>
+					<WIDTH> 150 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6010 </ID>
+				<BOUNDS>
+					<LEFT> 44 </LEFT>
+					<TOP> 74 </TOP>
+					<WIDTH> 54 </WIDTH>
+					<HEIGHT> 16 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6030 </ID>
+				<BOUNDS>
+					<LEFT> 44 </LEFT>
+					<TOP> 94 </TOP>
+					<WIDTH> 54 </WIDTH>
+					<HEIGHT> 16 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6050 </ID>
+				<BOUNDS>
+					<LEFT> 44 </LEFT>
+					<TOP> 114 </TOP>
+					<WIDTH> 54 </WIDTH>
+					<HEIGHT> 16 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6020 </ID>
+				<BOUNDS>
+					<LEFT> 98 </LEFT>
+					<TOP> 74 </TOP>
+					<WIDTH> 54 </WIDTH>
+					<HEIGHT> 16 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6040 </ID>
+				<BOUNDS>
+					<LEFT> 98 </LEFT>
+					<TOP> 94 </TOP>
+					<WIDTH> 54 </WIDTH>
+					<HEIGHT> 16 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6060 </ID>
+				<BOUNDS>
+					<LEFT> 98 </LEFT>
+					<TOP> 114 </TOP>
+					<WIDTH> 54 </WIDTH>
+					<HEIGHT> 16 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_PUSH_BUTTON>
+				<ID> 6110 </ID>
+				<BOUNDS>
+					<LEFT> 143 </LEFT>
+					<TOP> 143 </TOP>
+					<WIDTH> 11 </WIDTH>
+					<HEIGHT> 11 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<ENABLED> FALSE </ENABLED>
+				<TEXT> "-" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<GROUP_ID> 0 </GROUP_ID>
+			</FORM_PUSH_BUTTON>
+			<FORM_GADGET>
+				<ID> 6090 </ID>
+				<BOUNDS>
+					<LEFT> 4 </LEFT>
+					<TOP> 16 </TOP>
+					<WIDTH> 101 </WIDTH>
+					<HEIGHT> 50 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_BITMAP>
+				<USABLE> FALSE </USABLE>
+				<LOCATION>
+					<X> 108 </X>
+					<Y> 18 </Y>
+				</LOCATION>
+				<BITMAP_ID> 2100 </BITMAP_ID>
+			</FORM_BITMAP>
+			<FORM_GADGET>
+				<ID> 6120 </ID>
+				<BOUNDS>
+					<LEFT> 147 </LEFT>
+					<TOP> 1 </TOP>
+					<WIDTH> 7 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> TRUE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6140 </ID>
+				<BOUNDS>
+					<LEFT> 126 </LEFT>
+					<TOP> 1 </TOP>
+					<WIDTH> 8 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> TRUE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6130 </ID>
+				<BOUNDS>
+					<LEFT> 134 </LEFT>
+					<TOP> 1 </TOP>
+					<WIDTH> 12 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> TRUE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6150 </ID>
+				<BOUNDS>
+					<LEFT> 103 </LEFT>
+					<TOP> 2 </TOP>
+					<WIDTH> 21 </WIDTH>
+					<HEIGHT> 11 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6160 </ID>
+				<BOUNDS>
+					<LEFT> 91 </LEFT>
+					<TOP> 2 </TOP>
+					<WIDTH> 11 </WIDTH>
+					<HEIGHT> 11 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6170 </ID>
+				<BOUNDS>
+					<LEFT> 2 </LEFT>
+					<TOP> 2 </TOP>
+					<WIDTH> 68 </WIDTH>
+					<HEIGHT> 11 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6080 </ID>
+				<BOUNDS>
+					<LEFT> 112 </LEFT>
+					<TOP> 16 </TOP>
+					<WIDTH> 40 </WIDTH>
+					<HEIGHT> 50 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_BITMAP>
+				<USABLE> TRUE </USABLE>
+				<LOCATION>
+					<X> 1 </X>
+					<Y> 14 </Y>
+				</LOCATION>
+				<BITMAP_ID> 2300 </BITMAP_ID>
+			</FORM_BITMAP>
+			<FORM_GADGET>
+				<ID> 1000 </ID>
+				<BOUNDS>
+					<LEFT> 73 </LEFT>
+					<TOP> 2 </TOP>
+					<WIDTH> 11 </WIDTH>
+					<HEIGHT> 11 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_BITMAP>
+				<USABLE> TRUE </USABLE>
+				<LOCATION>
+					<X> 10 </X>
+					<Y> 122 </Y>
+				</LOCATION>
+				<BITMAP_ID> 2400 </BITMAP_ID>
+			</FORM_BITMAP>
+			<FORM_GADGET>
+				<ID> 6100 </ID>
+				<BOUNDS>
+					<LEFT> 11 </LEFT>
+					<TOP> 77 </TOP>
+					<WIDTH> 1 </WIDTH>
+					<HEIGHT> 43 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6180 </ID>
+				<BOUNDS>
+					<LEFT> 17 </LEFT>
+					<TOP> 77 </TOP>
+					<WIDTH> 1 </WIDTH>
+					<HEIGHT> 43 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6190 </ID>
+				<BOUNDS>
+					<LEFT> 23 </LEFT>
+					<TOP> 77 </TOP>
+					<WIDTH> 1 </WIDTH>
+					<HEIGHT> 43 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6200 </ID>
+				<BOUNDS>
+					<LEFT> 29 </LEFT>
+					<TOP> 77 </TOP>
+					<WIDTH> 1 </WIDTH>
+					<HEIGHT> 43 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+			<FORM_GADGET>
+				<ID> 6210 </ID>
+				<BOUNDS>
+					<LEFT> 35 </LEFT>
+					<TOP> 77 </TOP>
+					<WIDTH> 1 </WIDTH>
+					<HEIGHT> 43 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<EXTENDED> TRUE </EXTENDED>
+				<VISIBLE> FALSE </VISIBLE>
+			</FORM_GADGET>
+		</FORM_OBJECTS>
+	</FORM_RESOURCE>
+
+	<FORM_RESOURCE RESOURCE_ID="7000" COMMENT="Sounds">
+		<FORM_ID> 7000 </FORM_ID>
+		<BOUNDS>
+			<LEFT> 2 </LEFT>
+			<TOP> 2 </TOP>
+			<WIDTH> 156 </WIDTH>
+			<HEIGHT> 156 </HEIGHT>
+		</BOUNDS>
+		<USABLE> TRUE </USABLE>
+		<MODAL> TRUE </MODAL>
+		<SAVE_BEHIND> TRUE </SAVE_BEHIND>
+		<HELP_ID> 0 </HELP_ID>
+		<MENU_ID> 0 </MENU_ID>
+		<DEFAULT_BUTTON> 0 </DEFAULT_BUTTON>
+		<TITLE_ICON> FALSE </TITLE_ICON>
+		<TITLE_BAR_FOCUSABLE> FALSE </TITLE_BAR_FOCUSABLE>
+		<FORM_OBJECTS>
+			<FORM_TITLE>
+				<TEXT> "Chime Sounds..." </TEXT>
+			</FORM_TITLE>
+			<FORM_BUTTON>
+				<ID> 7010 </ID>
+				<BOUNDS>
+					<LEFT> 3 </LEFT>
+					<TOP> 141 </TOP>
+					<WIDTH> 36 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "OK" </TEXT>
+				<LEFT_ANCHOR> FALSE </LEFT_ANCHOR>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<BUTTON_FRAME> STANDARD_BUTTON_FRAME </BUTTON_FRAME>
+			</FORM_BUTTON>
+			<FORM_BUTTON>
+				<ID> 7020 </ID>
+				<BOUNDS>
+					<LEFT> 46 </LEFT>
+					<TOP> 141 </TOP>
+					<WIDTH> 36 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Cancel" </TEXT>
+				<LEFT_ANCHOR> FALSE </LEFT_ANCHOR>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<BUTTON_FRAME> STANDARD_BUTTON_FRAME </BUTTON_FRAME>
+			</FORM_BUTTON>
+			<FORM_GRAFFITI_STATE>
+				<LOCATION>
+					<X> 145 </X>
+					<Y> 142 </Y>
+				</LOCATION>
+			</FORM_GRAFFITI_STATE>
+			<FORM_LIST>
+				<ID> 7070 </ID>
+				<BOUNDS>
+					<LEFT> 69 </LEFT>
+					<TOP> 18 </TOP>
+					<WIDTH> 82 </WIDTH>
+					<HEIGHT> 132 </HEIGHT>
+				</BOUNDS>
+				<USABLE> FALSE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<NUM_VIS_ITEMS> 12 </NUM_VIS_ITEMS>
+				<LIST_ITEMS>
+				</LIST_ITEMS>
+			</FORM_LIST>
+			<FORM_LABEL>
+				<ID> 1000 </ID>
+				<LOCATION>
+					<X> 8 </X>
+					<Y> 19 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Every Hour:" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 1001 </ID>
+				<LOCATION>
+					<X> 17 </X>
+					<Y> 44 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "3/4 Hour:" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 1002 </ID>
+				<LOCATION>
+					<X> 17 </X>
+					<Y> 69 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "1/2 Hour:" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 1003 </ID>
+				<LOCATION>
+					<X> 17 </X>
+					<Y> 94 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "1/4 Hour:" </TEXT>
+			</FORM_LABEL>
+			<FORM_POPUP_TRIGGER>
+				<ID> 7040 </ID>
+				<BOUNDS>
+					<LEFT> 55 </LEFT>
+					<TOP> 44 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 7040 </CONTROL_ID>
+				<LIST_ID> 7070 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_POPUP_TRIGGER>
+				<ID> 7030 </ID>
+				<BOUNDS>
+					<LEFT> 55 </LEFT>
+					<TOP> 19 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 7030 </CONTROL_ID>
+				<LIST_ID> 7070 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_POPUP>
+				<CONTROL_ID> 7060 </CONTROL_ID>
+				<LIST_ID> 7070 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_POPUP_TRIGGER>
+				<ID> 7050 </ID>
+				<BOUNDS>
+					<LEFT> 55 </LEFT>
+					<TOP> 69 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+			<FORM_POPUP>
+				<CONTROL_ID> 7050 </CONTROL_ID>
+				<LIST_ID> 7070 </LIST_ID>
+			</FORM_POPUP>
+			<FORM_POPUP_TRIGGER>
+				<ID> 7060 </ID>
+				<BOUNDS>
+					<LEFT> 55 </LEFT>
+					<TOP> 94 </TOP>
+					<WIDTH> 42 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<LEFT_ANCHOR> TRUE </LEFT_ANCHOR>
+				<TEXT> "Popup" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+			</FORM_POPUP_TRIGGER>
+		</FORM_OBJECTS>
+	</FORM_RESOURCE>
+
+	<FORM_RESOURCE RESOURCE_ID="8000" COMMENT="App Prefs">
+		<FORM_ID> 8000 </FORM_ID>
+		<BOUNDS>
+			<LEFT> 2 </LEFT>
+			<TOP> 2 </TOP>
+			<WIDTH> 156 </WIDTH>
+			<HEIGHT> 156 </HEIGHT>
+		</BOUNDS>
+		<USABLE> TRUE </USABLE>
+		<MODAL> TRUE </MODAL>
+		<SAVE_BEHIND> TRUE </SAVE_BEHIND>
+		<HELP_ID> 1100 </HELP_ID>
+		<MENU_ID> 0 </MENU_ID>
+		<DEFAULT_BUTTON> 8010 </DEFAULT_BUTTON>
+		<TITLE_ICON> FALSE </TITLE_ICON>
+		<TITLE_BAR_FOCUSABLE> FALSE </TITLE_BAR_FOCUSABLE>
+		<FORM_OBJECTS>
+			<FORM_TITLE>
+				<TEXT> "Chimester Preferences" </TEXT>
+			</FORM_TITLE>
+			<FORM_BUTTON>
+				<ID> 8010 </ID>
+				<BOUNDS>
+					<LEFT> 3 </LEFT>
+					<TOP> 141 </TOP>
+					<WIDTH> 36 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "OK" </TEXT>
+				<LEFT_ANCHOR> FALSE </LEFT_ANCHOR>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<BUTTON_FRAME> STANDARD_BUTTON_FRAME </BUTTON_FRAME>
+			</FORM_BUTTON>
+			<FORM_BUTTON>
+				<ID> 8020 </ID>
+				<BOUNDS>
+					<LEFT> 45 </LEFT>
+					<TOP> 141 </TOP>
+					<WIDTH> 36 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Cancel" </TEXT>
+				<LEFT_ANCHOR> FALSE </LEFT_ANCHOR>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<BUTTON_FRAME> STANDARD_BUTTON_FRAME </BUTTON_FRAME>
+			</FORM_BUTTON>
+			<FORM_GRAFFITI_STATE>
+				<LOCATION>
+					<X> 144 </X>
+					<Y> 142 </Y>
+				</LOCATION>
+			</FORM_GRAFFITI_STATE>
+			<FORM_CHECKBOX>
+				<ID> 8030 </ID>
+				<BOUNDS>
+					<LEFT> 4 </LEFT>
+					<TOP> 18 </TOP>
+					<WIDTH> 138 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Enable App-launch from Clock" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<GROUP_ID> 0 </GROUP_ID>
+				<SELECTED> FALSE </SELECTED>
+			</FORM_CHECKBOX>
+			<FORM_CHECKBOX>
+				<ID> 8040 </ID>
+				<BOUNDS>
+					<LEFT> 4 </LEFT>
+					<TOP> 38 </TOP>
+					<WIDTH> 148 </WIDTH>
+					<HEIGHT> 12 </HEIGHT>
+				</BOUNDS>
+				<USABLE> TRUE </USABLE>
+				<ENABLED> TRUE </ENABLED>
+				<TEXT> "Don't Display Unlock Text in KG" </TEXT>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<GROUP_ID> 0 </GROUP_ID>
+				<SELECTED> FALSE </SELECTED>
+			</FORM_CHECKBOX>
+			<FORM_LABEL>
+				<ID> 1001 </ID>
+				<LOCATION>
+					<X> 35 </X>
+					<Y> 52 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> BOLD_FONT </FONT_ID>
+				<TEXT> "WARNING!!! CAUTION!!!" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 1002 </ID>
+				<LOCATION>
+					<X> 36 </X>
+					<Y> 65 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "Don't forget the unlock key" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 1003 </ID>
+				<LOCATION>
+					<X> 36 </X>
+					<Y> 76 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "combination. If you do, you" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 1005 </ID>
+				<LOCATION>
+					<X> 36 </X>
+					<Y> 88 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "can use [Opt] + [Pwr On] to" </TEXT>
+			</FORM_LABEL>
+			<FORM_LABEL>
+				<ID> 1004 </ID>
+				<LOCATION>
+					<X> 36 </X>
+					<Y> 100 </Y>
+				</LOCATION>
+				<USABLE> TRUE </USABLE>
+				<FONT_ID> STD_FONT </FONT_ID>
+				<TEXT> "bypass keyguard." </TEXT>
+			</FORM_LABEL>
+			<FORM_BITMAP>
+				<USABLE> TRUE </USABLE>
+				<LOCATION>
+					<X> 21 </X>
+					<Y> 52 </Y>
+				</LOCATION>
+				<BITMAP_ID> 2200 </BITMAP_ID>
+			</FORM_BITMAP>
+		</FORM_OBJECTS>
+	</FORM_RESOURCE>
+
+	<MENU_BAR_RESOURCE RESOURCE_ID="1000" COMMENT="Main">
+		<VISIBLE> TRUE </VISIBLE>
+		<MENUS>
+			<MENU>
+				<TITLE> "Chimester" </TITLE>
+				<HIDDEN> FALSE </HIDDEN>
+				<BOUNDS>
+					<LEFT> 0 </LEFT>
+					<TOP> 0 </TOP>
+					<WIDTH> 0 </WIDTH>
+					<HEIGHT> 0 </HEIGHT>
+				</BOUNDS>
+				<TITLE_BOUNDS>
+					<LEFT> 0 </LEFT>
+					<TOP> 0 </TOP>
+					<WIDTH> 0 </WIDTH>
+					<HEIGHT> 0 </HEIGHT>
+				</TITLE_BOUNDS>
+				<MENU_ITEMS>
+					<MENU_ITEM>
+						<ID> 1110 </ID>
+						<TITLE> "Exit" </TITLE>
+						<COMMAND> "Q" </COMMAND>
+						<HIDDEN> FALSE </HIDDEN>
+					</MENU_ITEM>
+				</MENU_ITEMS>
+			</MENU>
+			<MENU>
+				<TITLE> "Options" </TITLE>
+				<HIDDEN> FALSE </HIDDEN>
+				<BOUNDS>
+					<LEFT> 0 </LEFT>
+					<TOP> 0 </TOP>
+					<WIDTH> 0 </WIDTH>
+					<HEIGHT> 0 </HEIGHT>
+				</BOUNDS>
+				<TITLE_BOUNDS>
+					<LEFT> 0 </LEFT>
+					<TOP> 0 </TOP>
+					<WIDTH> 0 </WIDTH>
+					<HEIGHT> 0 </HEIGHT>
+				</TITLE_BOUNDS>
+				<MENU_ITEMS>
+					<MENU_ITEM>
+						<ID> 1210 </ID>
+						<TITLE> "Preferences" </TITLE>
+						<COMMAND> "R" </COMMAND>
+						<HIDDEN> FALSE </HIDDEN>
+					</MENU_ITEM>
+					<MENU_ITEM>
+						<ID> 1002 </ID>
+						<TITLE> "-" </TITLE>
+						<COMMAND> "" </COMMAND>
+						<HIDDEN> FALSE </HIDDEN>
+					</MENU_ITEM>
+					<MENU_ITEM>
+						<ID> 1220 </ID>
+						<TITLE> "Help" </TITLE>
+						<COMMAND> "" </COMMAND>
+						<HIDDEN> FALSE </HIDDEN>
+					</MENU_ITEM>
+					<MENU_ITEM>
+						<ID> 1230 </ID>
+						<TITLE> "About Chimester" </TITLE>
+						<COMMAND> "" </COMMAND>
+						<HIDDEN> FALSE </HIDDEN>
+					</MENU_ITEM>
+				</MENU_ITEMS>
+			</MENU>
+		</MENUS>
+	</MENU_BAR_RESOURCE>
+
+	<STRING_RESOURCE RESOURCE_ID="1000" COMMENT="Help">
+		<TEXT>
+			"Chimester will remind you of the passage of time. It has several user configurable options and a built-in popup clock and keyguard for an unified view of the device status. The display includes new alerts, tasks, appointments, message and email counts along with device memory status and other phone information.\n\nCopyright (c) 2008 MVK\n\nPlease donate and support development of freeware utilities.\n\nSee: www.swCP3.com/TreoTown/"
+		</TEXT>
+	</STRING_RESOURCE>
+
+	<STRING_RESOURCE RESOURCE_ID="1100" COMMENT="App Prefs">
+		<TEXT>
+			"Selecting \"Enable App-launch from Clock\" will permit  launching applications by tapping the respective alert regions in the clock form (Alert, Sound, SMS, Email, Tasks and Calendar).\n\n\"Don't Display Unlock Text in KG\" will supress the red bar at the bottom with the unlock key hint. In case you forget the unlock keys, you can bypass keyguard by pressing [Option]+[Power-on]."
+		</TEXT>
+	</STRING_RESOURCE>
+
+</PALMOS_RESOURCE_FILE>
